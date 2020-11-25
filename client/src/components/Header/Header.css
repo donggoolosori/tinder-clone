@@ -6,6 +6,6 @@
   object-fit: contain;
   z-index: 100;
 }
-.header__logo img {
+.header__logo {
   width: 40px;
 }
