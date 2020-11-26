@@ -10,6 +10,6 @@
   
 
 ## <span style="color:rgba(0,70,230,0.7)">실행 화면</span>
-![1](/assets/img/tinder1.png)
-![2](/assets/img/tinder2.png)
-![3](/assets/img/tinder3.png)
+<img width="1440" alt="tinder3" src="https://user-images.githubusercontent.com/53213397/100355164-9fa8bb00-3034-11eb-9b7f-ae2d9e9d042f.png">
+<img width="1440" alt="tinder2" src="https://user-images.githubusercontent.com/53213397/100355178-a5060580-3034-11eb-9ee4-1fb62a030d52.png">
+<img width="1440" alt="tinder1" src="https://user-images.githubusercontent.com/53213397/100355183-a6373280-3034-11eb-96cb-362c65cb04f3.png">
