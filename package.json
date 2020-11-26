@@ -1,12 +1,27 @@
 {
-  "name": "tinder-clone",
+  "name": "tinder-backend",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "tinder clone project using MERN stack (MongoDB, Express, React, Node js)",
+  "main": "server.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Donggoolosori/tinder-clone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Donggoolosori/tinder-clone/issues"
+  },
+  "homepage": "https://github.com/Donggoolosori/tinder-clone",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.16"
+  }
 }
